@@ -1,2 +1,2 @@
 # dioRepository
-Repository DIO - .NET
+Repository DIO - GFT .NET
